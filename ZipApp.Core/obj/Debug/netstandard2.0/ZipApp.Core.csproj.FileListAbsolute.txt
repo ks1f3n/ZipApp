@@ -1,0 +1,11 @@
+D:\repos\ZipApp\ZipApp.Core\bin\Debug\netstandard2.0\ZipApp.Core.deps.json
+D:\repos\ZipApp\ZipApp.Core\bin\Debug\netstandard2.0\ZipApp.Core.dll
+D:\repos\ZipApp\ZipApp.Core\bin\Debug\netstandard2.0\ZipApp.Core.pdb
+D:\repos\ZipApp\ZipApp.Core\obj\Debug\netstandard2.0\ZipApp.Core.csprojAssemblyReference.cache
+D:\repos\ZipApp\ZipApp.Core\obj\Debug\netstandard2.0\ZipApp.Core.AssemblyInfoInputs.cache
+D:\repos\ZipApp\ZipApp.Core\obj\Debug\netstandard2.0\ZipApp.Core.AssemblyInfo.cs
+D:\repos\ZipApp\ZipApp.Core\obj\Debug\netstandard2.0\ZipApp.Core.dll
+D:\repos\ZipApp\ZipApp.Core\obj\Debug\netstandard2.0\ZipApp.Core.pdb
+D:\repos\ZipApp\ZipApp.Core\bin\Debug\netstandard2.0\ZipAppModel.dll
+D:\repos\ZipApp\ZipApp.Core\bin\Debug\netstandard2.0\ZipAppModel.pdb
+D:\repos\ZipApp\ZipApp.Core\obj\Debug\netstandard2.0\ZipApp.Core.csproj.CopyComplete

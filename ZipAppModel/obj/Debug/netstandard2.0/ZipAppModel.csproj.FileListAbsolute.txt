@@ -1,0 +1,8 @@
+D:\repos\ZipApp\ZipAppModel\bin\Debug\netstandard2.0\ZipAppModel.deps.json
+D:\repos\ZipApp\ZipAppModel\bin\Debug\netstandard2.0\ZipAppModel.dll
+D:\repos\ZipApp\ZipAppModel\bin\Debug\netstandard2.0\ZipAppModel.pdb
+D:\repos\ZipApp\ZipAppModel\obj\Debug\netstandard2.0\ZipAppModel.csprojAssemblyReference.cache
+D:\repos\ZipApp\ZipAppModel\obj\Debug\netstandard2.0\ZipAppModel.AssemblyInfoInputs.cache
+D:\repos\ZipApp\ZipAppModel\obj\Debug\netstandard2.0\ZipAppModel.AssemblyInfo.cs
+D:\repos\ZipApp\ZipAppModel\obj\Debug\netstandard2.0\ZipAppModel.dll
+D:\repos\ZipApp\ZipAppModel\obj\Debug\netstandard2.0\ZipAppModel.pdb

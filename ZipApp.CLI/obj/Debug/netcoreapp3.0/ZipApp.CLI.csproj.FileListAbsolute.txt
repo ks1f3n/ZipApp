@@ -1,0 +1,16 @@
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.CLI.exe
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.CLI.deps.json
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.CLI.runtimeconfig.json
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.CLI.runtimeconfig.dev.json
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.CLI.dll
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.CLI.pdb
+D:\repos\ZipApp\ZipApp.CLI\obj\Debug\netcoreapp3.0\ZipApp.CLI.csprojAssemblyReference.cache
+D:\repos\ZipApp\ZipApp.CLI\obj\Debug\netcoreapp3.0\ZipApp.CLI.AssemblyInfoInputs.cache
+D:\repos\ZipApp\ZipApp.CLI\obj\Debug\netcoreapp3.0\ZipApp.CLI.AssemblyInfo.cs
+D:\repos\ZipApp\ZipApp.CLI\obj\Debug\netcoreapp3.0\ZipApp.CLI.dll
+D:\repos\ZipApp\ZipApp.CLI\obj\Debug\netcoreapp3.0\ZipApp.CLI.pdb
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.Core.dll
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipAppModel.dll
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipApp.Core.pdb
+D:\repos\ZipApp\ZipApp.CLI\bin\Debug\netcoreapp3.0\ZipAppModel.pdb
+D:\repos\ZipApp\ZipApp.CLI\obj\Debug\netcoreapp3.0\ZipApp.CLI.csproj.CopyComplete
